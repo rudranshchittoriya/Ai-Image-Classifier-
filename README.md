@@ -96,3 +96,7 @@ git push -u origin main
 
 ## Portfolio Value
 This project demonstrates practical understanding of CNNs, image preprocessing, model training, evaluation, and deployment. It is a good first Deep Learning portfolio project for a BTech AI/ML student.
+
+## Author
+Rudransh Chittoriya 
+B.tech Ai/Ml

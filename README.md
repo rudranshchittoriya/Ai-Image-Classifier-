@@ -99,4 +99,5 @@ This project demonstrates practical understanding of CNNs, image preprocessing, 
 
 ## Author
 Rudransh Chittoriya 
+
 B.tech Ai/Ml
